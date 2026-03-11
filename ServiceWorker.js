@@ -1,4 +1,4 @@
-const cacheName = "Smiling Goat Studios-Space Invaders-0.2.2";
+const cacheName = "Smiling Goat Studios-Space Invaders-0.2.3";
 const contentToCache = [
     "Build/SpaceInvaders_Web.loader.js",
     "Build/SpaceInvaders_Web.framework.js.unityweb",
